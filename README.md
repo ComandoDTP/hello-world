@@ -1,2 +1,4 @@
 # hello-world
-My first GitHub repository 
+C1:My first GitHub repository 
+
+C2: First branching and commiting with github
